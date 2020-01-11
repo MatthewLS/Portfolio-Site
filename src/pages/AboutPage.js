@@ -9,10 +9,11 @@ function AboutPage(props) {
       <Hero title={props.title} />
       <Content>
         <p>
-          Hello there, my name is Matthew Stephens and I am a Computer Science
-          student at San Francisco State University
+          Hello there, my name is Matthew Stephens. I am a Computer Science
+          student at San Francisco State University, and I made this site to
+          concurrently learn React and showcase projects I have worked on.
         </p>
-        Hello
+        <p>some other stuff</p>
       </Content>
     </div>
   );
